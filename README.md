@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on hdf5-vol-daos Spack package.
-- 🌱 I’m currently learning DAOS.
+- 🔭 I’m currently working on Sedona visualization.
+- 🌱 I’m currently learning Kotlin.
 - 👯 I’m looking to collaborate on cdm-kotlin.
 <!--
 - 🤔 I’m looking for help with ...
