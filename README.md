@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on DAOS Spack package.
+- 🔭 I’m currently working on Sunspot.
 - 🌱 I’m currently learning Kotlin.
 - 👯 I’m looking to collaborate on cdm-kotlin.
 <!--
