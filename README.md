@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on Sunspot.
-- 🌱 I’m currently learning Kotlin.
+- 🌱 I’m currently learning DAOS.
 - 👯 I’m looking to collaborate on cdm-kotlin.
 <!--
 - 🤔 I’m looking for help with ...
