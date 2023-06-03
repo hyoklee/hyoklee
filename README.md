@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
-- 🔭 I’m working on ECP.
-- 🌱 I’m learning Lustre.
+- 🔭 I’m working on [MetaEarth](https://github.com/hdfeos/meta).
+- 🌱 I’m learning Apple Reality Pro VR.
 - 👯 I’m looking to collaborate on cdm-kotlin.
 - 🤔 I’m looking for help with [WhoMovedMyChesse.io](https://github.com/hdfeos/whomovedmycheese.io).
 - 💬 Ask me about handling NASA HDF-EOS Data Products
