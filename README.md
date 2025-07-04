@@ -6,6 +6,6 @@
 - 👯 I’m looking to collaborate on [cdm-kotlin](https://github.com/JohnLCaron/cdm-kotlin).
 - 🤔 I’m looking for help with [WhoMovedMyChesse.io](https://github.com/hdfeos/whomovedmycheese.io).
 - 💬 Ask me about [handling NASA HDF-EOS Data Products](https://github.com/hdfeos/forum/discussions/).
-- 📫 How to reach me: +1-217-531-6105
+- 📫 How to reach me: hyoklee@hdfgroup.org
 - ⚡ Fun fact: Emacs 80x24
 
